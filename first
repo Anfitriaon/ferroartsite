@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8"/>
+	<head>
+<meta charset="utf-8">
+<title>Ferroart Ltda - A qualidade a serviço da segurança</title>
+
+
+
+</head>
+	
+</head>
+<body>
+<p><h1>FERROART LTDA </h1></p>
+<p><h2>A qualidade a serviço da segurança</h2></p>
+<table height="100" width="150" background="C:\Users\BRICIO\Desktop\INSTAGRAM FERROART\POSTAGENS FERROART\P1010030.JPG" >
+	<tr>
+		<td>Essa tabela tem uma imagem de plano de fundo.</td>
+	</tr>
+</table>
+</br>
+</br>
+</br>
+<div class="container_12 fundo-header">
+    	<div class="grid_3">
+			<a href="https://www.instagram.com/ferroartltda/">
+			<img src="http://rebobinart.com/wp-content/uploads/2018/02/instagram-png-instagram-icon-1600.png" alt="imagem instagram" style="width:300px;height:300px;border:100;">
+			</a>		
+        </div>
+        <div>        	
+			<a href="https://www.facebook.com/ferroartltdaofc/" target="_blank" style="font-size: 20px; color: #202e43; margin-right: 10px;"><svg class="svg-inline--fa fa-facebook-square fa-w-14" aria-hidden="true" data-prefix="fab" data-icon="facebook-square" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 3000" data-fa-i2svg=""><path fill="currentColor" d="M448 80v352c0 26.5-21.5 48-48 48h-85.3V302.8h60.6l8.7-67.6h-69.3V192c0-19.6 5.4-32.9 33.5-32.9H384V98.7c-6.2-.8-27.4-2.7-52.2-2.7-51.6 0-87 31.5-87 89.4v49.9H184v67.6h60.9V480H48c-26.5 0-48-21.5-48-48V80c0-26.5 21.5-48 48-48h352c26.5 0 48 21.5 48 48z"></path></svg><!-- <i class="fab fa-facebook-square"></i> --> <span style="font-size: 14px; color: #3a567e; font-weight: bolder">Facebook</span></a>
+        	
+			<a href="./mobile" style="font-size: 20px; color: #202e43;"><svg class="svg-inline--fa fa-mobile-alt fa-w-10" aria-hidden="true" data-prefix="fas" data-icon="mobile-alt" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 3000" data-fa-i2svg=""><path fill="currentColor" d="M272 0H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h224c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48zM160 480c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32zm112-108c0 6.6-5.4 12-12 12H60c-6.6 0-12-5.4-12-12V60c0-6.6 5.4-12 12-12h200c6.6 0 12 5.4 12 12v312z"></path></svg><!-- <i class="fas fa-mobile-alt"></i> --> <span style="font-size: 14px; color: #3a567e; font-weight: bolder">versão celular</span></a>
+        	<!--<a href="./mobile"><img src="imagens/botao-site-para-mobile.png" alt="" title=""></a>-->
+        </div>
+        <div class="grid_9 nav">
+        	<nav id="nav">
+                <ul>
+                    <li><a href="./">Home</a>  </li>
+                    <li><a href="#">Quem somos</a>
+                       <ul>
+                        	<li><a href="">Política de entrega</a></li>
+                        	<li><a href="">Missão, Visão e Valores</a></li>
+                        	<li><a href="">Empresa</a></li>
+
+                        </ul>
+                    </li>
+                    <li><a href="https://www.google.com/maps/place/Ferroart+Ltda/@-1.4383206,-48.4803487,18z/data=!4m19!1m13!4m12!1m4!2m2!1d-47.165469!2d-1.1936391!4e1!1m6!1m2!1s0x92a48ea6383a8219:0x348973b50ff7bd7c!2sferroart+ltda!2m2!1d-48.4813908!2d-1.4384689!3m4!1s0x92a48ea6383a8219:0x348973b50ff7bd7c!8m2!3d-1.4384689!4d-48.4813908">Localização</a></li>
+                    	<ul>
+                        </ul>
+                    </li>
+                    <li><a href="">Contatos</a>
+                    	<ul>
+                        <li><a href="./contato.php">Fale conosco</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+			
+
+
+</body>
+</html>
